@@ -21,7 +21,7 @@
                     <div class="col-md-4">
                             <div class="card" style="background-color: #236142; outline-style: solid; outline-color:#0b5032">
                                 <div class="card-head">
-                                    <img alt="Vue logo" class="rounded-circle img-custome" src="https://www.thoughtwavesoft.com/wp-content/uploads/2018/12/web-development-trends-2019.jpg">
+                                    <img alt="Program" class="rounded-circle img-custome" src="https://www.thoughtwavesoft.com/wp-content/uploads/2018/12/web-development-trends-2019.jpg">
                                     <h3>Programming languages</h3>
                                 </div>
                                 <hr>
@@ -42,7 +42,7 @@
                     <div class="col-md-4">
                             <div class="card" style="background-color: #236142; outline-style: solid; outline-color:#0b5032">
                                 <div class="card-head">
-                                    <img alt="Vue logo" class="rounded-circle img-custome" src="https://image.freepik.com/free-vector/light-bulb-idea_23-2147504759.jpg">
+                                    <img alt="Projects" class="rounded-circle img-custome" src="https://image.freepik.com/free-vector/light-bulb-idea_23-2147504759.jpg">
                                     <h3>Projects and Leadership</h3>
                                 </div>
                                 <hr>
