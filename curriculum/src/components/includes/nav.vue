@@ -14,13 +14,13 @@
                     <a class="nav-link" href=".\index.html">Home </a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Languages</a>
+                    <a class="nav-link" href=".\programming.html">Languages</a>
                 </li>
                  <li class="nav-item active">
-                    <a class="nav-link" href="#">Projects</a>
+                    <a class="nav-link" href=".\projects.html">Projects</a>
                 </li>
                  <li class="nav-item active">
-                    <a class="nav-link" href="#">About Me</a>
+                    <a class="nav-link" href=".\more.html">About Me</a>
                 </li>
                 </ul>
             </div>

@@ -14,7 +14,7 @@
         <!-- portfolio section -->
         <section class="portfolio">
             <h1>My curriculum</h1>
-            <p>Here you have some of my information</p>
+            <p>Here's a preview of my curriculum, for more details, visit the pages linked on "Learn More"</p>
             <div class="container">
                 <div class="row">
 
@@ -33,7 +33,7 @@
                                         Java        <br>
                                         Haskell     
                                     </p>
-                                    <button type="button" class="btn btn-outline-info">Learn More</button>
+                                    <a href="./programming.html" class="btn btn-outline-info">Learn More</a>
                                 </div>
                             </div>
                             <br>
@@ -54,7 +54,7 @@
                                         Book Fair Organizer (2017)<br>
                                         Book Club Coordinator (2016)
                                     </p>
-                                    <button type="button" class="btn btn-outline-info">Learn More</button>
+                                    <a href="./projects.html" class="btn btn-outline-info">Learn More</a>
                                 </div>
                             </div>
                         <br>
@@ -75,7 +75,7 @@
                                     Courses<br>
                                     Other interests
                                 </p>
-                                <button type="button" class="btn btn-outline-info">Learn More</button>
+                                <a href="./more.html" class="btn btn-outline-info">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -117,7 +117,7 @@ export default {
         color: white;
         background-color:#236142;
         padding-top: 8%;
-        padding-bottom: 15%;
+        padding-bottom: 8%;
         /* padding:15% */
     }
     .img-custome{
